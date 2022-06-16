@@ -6,3 +6,5 @@
 6. I have to learn more.
 7. Need to practice too.
 8. However git is easy.
+9. Git is useless.
+10. I don't like it at all.
